@@ -1,0 +1,14 @@
+C:\Users\Bandile Sithole\source\repos\FindingTheBiggestArray\FindingTheBiggestArray\bin\Debug\net6.0\FindingTheBiggestArray.exe
+C:\Users\Bandile Sithole\source\repos\FindingTheBiggestArray\FindingTheBiggestArray\bin\Debug\net6.0\FindingTheBiggestArray.deps.json
+C:\Users\Bandile Sithole\source\repos\FindingTheBiggestArray\FindingTheBiggestArray\bin\Debug\net6.0\FindingTheBiggestArray.runtimeconfig.json
+C:\Users\Bandile Sithole\source\repos\FindingTheBiggestArray\FindingTheBiggestArray\bin\Debug\net6.0\FindingTheBiggestArray.dll
+C:\Users\Bandile Sithole\source\repos\FindingTheBiggestArray\FindingTheBiggestArray\bin\Debug\net6.0\FindingTheBiggestArray.pdb
+C:\Users\Bandile Sithole\source\repos\FindingTheBiggestArray\FindingTheBiggestArray\obj\Debug\net6.0\FindingTheBiggestArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bandile Sithole\source\repos\FindingTheBiggestArray\FindingTheBiggestArray\obj\Debug\net6.0\FindingTheBiggestArray.AssemblyInfoInputs.cache
+C:\Users\Bandile Sithole\source\repos\FindingTheBiggestArray\FindingTheBiggestArray\obj\Debug\net6.0\FindingTheBiggestArray.AssemblyInfo.cs
+C:\Users\Bandile Sithole\source\repos\FindingTheBiggestArray\FindingTheBiggestArray\obj\Debug\net6.0\FindingTheBiggestArray.csproj.CoreCompileInputs.cache
+C:\Users\Bandile Sithole\source\repos\FindingTheBiggestArray\FindingTheBiggestArray\obj\Debug\net6.0\FindingTheBiggestArray.dll
+C:\Users\Bandile Sithole\source\repos\FindingTheBiggestArray\FindingTheBiggestArray\obj\Debug\net6.0\refint\FindingTheBiggestArray.dll
+C:\Users\Bandile Sithole\source\repos\FindingTheBiggestArray\FindingTheBiggestArray\obj\Debug\net6.0\FindingTheBiggestArray.pdb
+C:\Users\Bandile Sithole\source\repos\FindingTheBiggestArray\FindingTheBiggestArray\obj\Debug\net6.0\FindingTheBiggestArray.genruntimeconfig.cache
+C:\Users\Bandile Sithole\source\repos\FindingTheBiggestArray\FindingTheBiggestArray\obj\Debug\net6.0\ref\FindingTheBiggestArray.dll
